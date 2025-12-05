@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/analytics-platform-frontend/static/css/main.7c5dab1b.css",
+    "main.js": "/analytics-platform-frontend/static/js/main.64278e11.js",
+    "index.html": "/analytics-platform-frontend/index.html",
+    "main.7c5dab1b.css.map": "/analytics-platform-frontend/static/css/main.7c5dab1b.css.map",
+    "main.64278e11.js.map": "/analytics-platform-frontend/static/js/main.64278e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5dab1b.css",
+    "static/js/main.64278e11.js"
+  ]
+}

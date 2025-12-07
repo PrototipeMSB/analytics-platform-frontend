@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/analytics-platform-frontend/static/css/main.7c5dab1b.css",
-    "main.js": "/analytics-platform-frontend/static/js/main.b2df3c6b.js",
+    "main.js": "/analytics-platform-frontend/static/js/main.c5faf594.js",
     "index.html": "/analytics-platform-frontend/index.html",
     "main.7c5dab1b.css.map": "/analytics-platform-frontend/static/css/main.7c5dab1b.css.map",
-    "main.b2df3c6b.js.map": "/analytics-platform-frontend/static/js/main.b2df3c6b.js.map"
+    "main.c5faf594.js.map": "/analytics-platform-frontend/static/js/main.c5faf594.js.map"
   },
   "entrypoints": [
     "static/css/main.7c5dab1b.css",
-    "static/js/main.b2df3c6b.js"
+    "static/js/main.c5faf594.js"
   ]
 }
